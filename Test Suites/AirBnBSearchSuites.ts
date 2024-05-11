@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>AirBnBSearchSuites</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>a188a76b-cf57-4252-a456-1bb29bd0a693</testSuiteGuid>
+   <testCaseLink>
+      <guid>6407b154-d67a-4288-a3ee-b8ff89f7d9ef</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data-Driven Testing/Find a Place - useVar</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f76c94f9-9bdc-404b-b05c-790bbb76a356</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data_cities</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f76c94f9-9bdc-404b-b05c-790bbb76a356</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>city</value>
+         <variableId>0c21bb53-9a36-4c2a-8404-9c4d2b580189</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f76c94f9-9bdc-404b-b05c-790bbb76a356</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>result</value>
+         <variableId>e6849ac8-6f6f-4803-bd60-4404a2ade9be</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

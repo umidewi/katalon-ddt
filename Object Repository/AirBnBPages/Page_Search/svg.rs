@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>bca8986f-e6f5-41f4-b6bd-759ed1373da3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.i3tjjh1.atm_mk_h2mmj6.dir.dir-ltr > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[3]/following::*[name()='svg'][4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>9c868cb1-d309-447c-8c93-c34b0cb0eec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>159258ef-a248-4632-bd4f-1b2ab15148ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 32 32</value>
+      <webElementGuid>cdf6095e-8c6b-4d33-a2ed-ce29673d0e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>32879717-fc95-4a4c-8a4a-195b42e54273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>fd20ea86-8daa-4a69-9993-0db34e435169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e90d2dd6-ab6b-44de-9a15-0a5c13877ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scrollbar-gutter dir native v1oc6b3k vgnbcm1 v1agkal2 vqw89vp vlugpmm g5l85gq&quot;]/body[@class=&quot;with-new-header&quot;]/div[10]/div[1]/div[@class=&quot;t1bgcr6e  cjz5kiq&quot;]/section[1]/div[@class=&quot;c7hiiqj atm_wq_z68epy atm_mk_1n9t6rb atm_tk_idpfg4 atm_n3_idpfg4 atm_6i_idpfg4 atm_fq_idpfg4 atm_iy_18ock4e atm_9s_1txwivl atm_ar_vrvcex atm_fc_1h6ojuz atm_h_1y6m0gg atm_l8_idpfg4 atm_iy_uat40h__js3chn atm_l8_1ylpe5n__1d8hi0p atm_h_1h6ojuz__1d8hi0p atm_h_1fhbwtr__a0n626 dir dir-ltr&quot;]/div[@class=&quot;p1psejvv atm_9s_1bgihbq dir dir-ltr&quot;]/div[@class=&quot;p1psejvv atm_9s_1bgihbq dir dir-ltr&quot;]/div[@class=&quot;dauakcb atm_ks_zryt35 atm_mk_h2mmj6 atm_26_1qwqy05 atm_vy_auwlz6 atm_j3_auwlz6 atm_im2n7a_pwvux5 atm_189k8xb_pwvux5 atm_p_cf4h6v atm_tw_1ckalwg atm_iy_ekvdne atm_9s_1txwivl atm_ar_1bp4okc atm_6a_idpfg4 atm_6c_idpfg4 atm_45_kitwna atm_43_kitwna atm_70_rgs8xj atm_l8_n9wab5 atm_ks_15vqwwr__1yj3dog atm_kd_glywfm_pfnrn2 atm_vy_1osqo2v__oggzyc atm_j3_1oh5ri2__oggzyc atm_5j_kitwna__oggzyc atm_16_kb7nvz__oggzyc atm_12_1hrf63d__oggzyc atm_1c_ip976y__oggzyc atm_y_vegxqt__oggzyc atm_1k_so3mv5__oggzyc atm_tw_uaqxkr__oggzyc atm_im2n7a_n7od8j__oggzyc atm_189k8xb_n7od8j__oggzyc atm_p_1utr421__1rrf6b5 atm_lo_1ady9kd__kgj4qw atm_le_dnsvzo__kgj4qw atm_lo_1od0ugv__xvzlll atm_lo_n9wab5__9f1e3n atm_le_n9wab5__9f1e3n atm_im2n7a_n7od8j_1xfbuyq_oggzyc atm_189k8xb_n7od8j_1xfbuyq_oggzyc atm_p_18cpkty_1xfbuyq_oggzyc atm_tw_uld01c_1xfbuyq_oggzyc atm_j3_1shs4di_1xfbuyq_oggzyc atm_e2_orbt7h_1xfbuyq_oggzyc atm_mk_h2mmj6_1xfbuyq_oggzyc atm_9s_1txwivl_1xfbuyq_oggzyc atm_fc_1h6ojuz_1xfbuyq_oggzyc atm_h_1h6ojuz_1xfbuyq_oggzyc atm_l8_n9wab5_1xfbuyq_oggzyc atm_p_1hviwho_1xfbuyq_pynvjw atm_j3_21rgo6_1xfbuyq_qky54b atm_e2_jsxk8r_1xfbuyq_qky54b atm_l8_1od0ugv_1xfbuyq_qky54b atm_j3_1wnpukl_1xfbuyq_jx8car atm_e2_g26cm6_1xfbuyq_jx8car atm_l8_dnsvzo_1xfbuyq_jx8car d13kcr3x dir dir-ltr&quot;]/div[@class=&quot;c11vnb9k atm_mk_stnw88 atm_9s_1txwivl atm_tk_exct8b atm_fq_1tcgj5g atm_wq_kb7nvz atm_1wn1q82_xond3e atm_tk_1tcgj5g__oggzyc c1r2fvxc atm_p_zawoi9 atm_tw_1htnifm atm_l8_1yuitx atm_tk_i-1gibeiw atm_fq_i-1gibeiw atm_26_i-1j28jx2_17x9576 atm_1c_glywfm__1rrf6b5 atm_p_1a2ggzj__oggzyc atm_tw_1htnifm__oggzyc atm_1c_glywfm__pynvjw dir dir-ltr&quot;]/button[@class=&quot;l1ovpqvx atm_1he2i46_1k8pnbi_10saat9 atm_yxpdqi_1pv6nv4_10saat9 atm_1a0hdzc_w1h1e8_10saat9 atm_ywwsz3_1afjdsa_10saat9 atm_1lnvhrj_zhgkwc_10saat9 atm_8i46q5_63ecz1_10saat9 c1h5tsj6 atm_1s_glywfm atm_5j_1ssbidh atm_9j_tlke0l atm_tl_1gw4zv3 atm_9s_1o8liyq atm_mk_h2mmj6 atm_l8_idpfg4 atm_gi_idpfg4 atm_3f_glywfm atm_26_1j28jx2 atm_7l_hkljqm atm_uc_10d7vwn atm_kd_glywfm atm_kd_glywfm_1w3cfyq atm_3f_glywfm_e4a3ld atm_l8_idpfg4_e4a3ld atm_gi_idpfg4_e4a3ld atm_3f_glywfm_1r4qscq atm_kd_glywfm_6y7yyg atm_kd_glywfm_pfnrn2_1oszvuo atm_l8_idpfg4_1icshfk_1oszvuo atm_gi_idpfg4_1icshfk_1oszvuo atm_3f_glywfm_b5gff8_1oszvuo atm_kd_glywfm_2by9w9_1oszvuo atm_k4_1piyxwk_1o5j5ji atm_9j_13gfvf7_1o5j5ji atm_uc_glywfm__1rrf6b5 atm_7l_wbi19n_1nos8r_uv4tnr atm_26_zbnr2t_1rqz0hn_uv4tnr atm_7l_1wxwdr3_4fughm_uv4tnr atm_26_1j28jx2_1r92pmq_uv4tnr atm_7l_wbi19n_csw3t1 atm_tr_ffmgpj_csw3t1 atm_26_zbnr2t_1ul2smo atm_3f_glywfm_jo46a5 atm_l8_idpfg4_jo46a5 atm_gi_idpfg4_jo46a5 atm_3f_glywfm_1icshfk atm_kd_glywfm_19774hq atm_uc_aaiy6o_1w3cfyq atm_70_glywfm_1w3cfyq atm_uc_glywfm_1w3cfyq_1rrf6b5 atm_70_1e7pbig_9xuho3 atm_26_zbnr2t_9xuho3 atm_uc_aaiy6o_pfnrn2_1oszvuo atm_70_glywfm_pfnrn2_1oszvuo atm_uc_glywfm_pfnrn2_1o31aam atm_70_1e7pbig_1buez3b_1oszvuo atm_26_zbnr2t_1buez3b_1oszvuo atm_7l_1wxwdr3_1o5j5ji atm_26_1j28jx2_154oz7f atm_92_1yyfdc7_vmtskl atm_9s_1ulexfb_vmtskl atm_mk_stnw88_vmtskl atm_tk_1ssbidh_vmtskl atm_fq_1ssbidh_vmtskl atm_tr_pryxvc_vmtskl atm_5j_1ssbidh_vmtskl atm_vy_1vi7ecw_vmtskl atm_e2_1vi7ecw_vmtskl dir dir-ltr&quot;]/span[@class=&quot;i3tjjh1 atm_mk_h2mmj6 dir dir-ltr&quot;]/svg[1]</value>
+      <webElementGuid>7545a9ce-d202-4fb8-b404-3050793f01ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[3]/following::*[name()='svg'][4]</value>
+      <webElementGuid>b19913f2-ebd0-4890-9664-e21a2f00e3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[3]/following::*[name()='svg'][4]</value>
+      <webElementGuid>61080698-062d-4516-9b15-33099092e436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>5ef933d5-87a6-4bd6-9579-a7606a49b2f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

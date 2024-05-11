@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Find a Place - useVar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5dd65455-b27c-4100-9d3b-9b95a50f7f84</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c21bb53-9a36-4c2a-8404-9c4d2b580189</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e6849ac8-6f6f-4803-bd60-4404a2ade9be</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Atlanta'</defaultValue>
+      <description></description>
+      <id>0c21bb53-9a36-4c2a-8404-9c4d2b580189</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>'places in Atlanta'</defaultValue>
+      <description></description>
+      <id>e6849ac8-6f6f-4803-bd60-4404a2ade9be</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

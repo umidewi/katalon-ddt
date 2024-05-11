@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+AirBnBSearchSuites,Chrome 124.0.0.0,,,02-05-2024 03:23:11,02-05-2024 03:23:33,21.328s,FAILED
+,,,,,,,
+Test Cases/Data-Driven Testing/Find a Place - useVar,Chrome 124.0.0.0,,,02-05-2024 03:23:12,02-05-2024 03:23:26,14.156s,FAILED
+"openBrowser("""")",Chrome 124.0.0.0,,,02-05-2024 03:23:12,02-05-2024 03:23:14,2.322s,PASSED
+"navigateToUrl(""https://www.airbnb.com/"")",Chrome 124.0.0.0,,,02-05-2024 03:23:14,02-05-2024 03:23:15,1.132s,PASSED
+"setText(findTestObject(""AirBnBPages/Page_Search/input_Where_query""), city)",Chrome 124.0.0.0,,,02-05-2024 03:23:15,02-05-2024 03:23:20,4.854s,PASSED
+"click(findTestObject(""AirBnBPages/Page_Search/div_Check in""))",Chrome 124.0.0.0,,,02-05-2024 03:23:20,02-05-2024 03:23:26,5.587s,FAILED
+,,,,,,,
+Test Cases/Data-Driven Testing/Find a Place - useVar,Chrome 124.0.0.0,,,02-05-2024 03:23:26,02-05-2024 03:23:30,4.111s,FAILED
+"openBrowser("""")",Chrome 124.0.0.0,,,02-05-2024 03:23:26,02-05-2024 03:23:27,1.029s,PASSED
+"navigateToUrl(""https://www.airbnb.com/"")",Chrome 124.0.0.0,,,02-05-2024 03:23:27,02-05-2024 03:23:28,0.778s,PASSED
+"setText(findTestObject(""AirBnBPages/Page_Search/input_Where_query""), city)",Chrome 124.0.0.0,,,02-05-2024 03:23:28,02-05-2024 03:23:30,2.263s,FAILED
+,,,,,,,
+Test Cases/Data-Driven Testing/Find a Place - useVar,Chrome 124.0.0.0,,,02-05-2024 03:23:30,02-05-2024 03:23:33,2.667s,FAILED
+"openBrowser("""")",Chrome 124.0.0.0,,,02-05-2024 03:23:30,02-05-2024 03:23:31,0.900s,PASSED
+"navigateToUrl(""https://www.airbnb.com/"")",Chrome 124.0.0.0,,,02-05-2024 03:23:31,02-05-2024 03:23:32,0.677s,PASSED
+"setText(findTestObject(""AirBnBPages/Page_Search/input_Where_query""), city)",Chrome 124.0.0.0,,,02-05-2024 03:23:32,02-05-2024 03:23:33,1.061s,FAILED

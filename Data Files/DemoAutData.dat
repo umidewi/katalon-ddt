@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DemoAutData</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>6fac9805-f7ce-44be-92f3-24d678d2c868</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Hongkong+CURA+Healthcare+Center 30%2F05%2F2024 Hongkong+Comment radio_program_medicaid Hongkong+CURA+Healthcare+Center 30%2F05%2F2024 Medicaid Hongkong+Comment</data>
+   <data>Seoul+CURA+Healthcare+Center 29%2F05%2F2024 Seoul+Comment radio_program_none Seoul+CURA+Healthcare+Center 29%2F05%2F2024 None Seoul+Comment</data>
+   <data>Tokyo+CURA+Healthcare+Center 28%2F05%2F2024 Tokyo+Comment radio_program_medicare Tokyo+CURA+Healthcare+Center 28%2F05%2F2024 Medicare Tokyo+Comment</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>healthcare</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>date</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>comment</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>program</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>ver_healthcare</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>ver_date</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>6</columnIndex>
+      <name>ver_program</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>7</columnIndex>
+      <name>ver_comment</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

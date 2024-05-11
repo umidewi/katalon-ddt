@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+AirBnBSearchSuites,Chrome 124.0.0.0,,,04-05-2024 16:59:41,04-05-2024 17:02:17,2m - 36.196s,FAILED
+,,,,,,,
+Test Cases/Data-Driven Testing/Find a Place - useVar,Chrome 124.0.0.0,,,04-05-2024 16:59:41,04-05-2024 17:00:26,44.834s,FAILED
+"openBrowser("""")",Chrome 124.0.0.0,,,04-05-2024 16:59:41,04-05-2024 16:59:44,2.600s,PASSED
+"navigateToUrl(""https://www.airbnb.com/"")",Chrome 124.0.0.0,,,04-05-2024 16:59:44,04-05-2024 16:59:47,3.466s,PASSED
+"setText(findTestObject(""AirBnBPages/Page_Search/input_Where_query""), city)",Chrome 124.0.0.0,,,04-05-2024 16:59:47,04-05-2024 16:59:50,3.167s,PASSED
+"click(findTestObject(""AirBnBPages/Page_Search/div_Check in""))",Chrome 124.0.0.0,,,04-05-2024 16:59:50,04-05-2024 16:59:52,1.556s,PASSED
+"click(findTestObject(""AirBnBPages/Page_Search/div_2""))",Chrome 124.0.0.0,,,04-05-2024 16:59:52,04-05-2024 16:59:53,1.085s,PASSED
+"click(findTestObject(""AirBnBPages/Page_Search/div_Check out""))",Chrome 124.0.0.0,,,04-05-2024 16:59:53,04-05-2024 17:00:26,32.730s,FAILED
+,,,,,,,
+Test Cases/Data-Driven Testing/Find a Place - useVar,Chrome 124.0.0.0,,,04-05-2024 17:00:26,04-05-2024 17:01:18,51.887s,FAILED
+"openBrowser("""")",Chrome 124.0.0.0,,,04-05-2024 17:00:26,04-05-2024 17:00:28,1.801s,PASSED
+"navigateToUrl(""https://www.airbnb.com/"")",Chrome 124.0.0.0,,,04-05-2024 17:00:28,04-05-2024 17:00:41,13.084s,PASSED
+"setText(findTestObject(""AirBnBPages/Page_Search/input_Where_query""), city)",Chrome 124.0.0.0,,,04-05-2024 17:00:41,04-05-2024 17:00:43,2.282s,PASSED
+"click(findTestObject(""AirBnBPages/Page_Search/div_Check in""))",Chrome 124.0.0.0,,,04-05-2024 17:00:43,04-05-2024 17:00:46,2.655s,PASSED
+"click(findTestObject(""AirBnBPages/Page_Search/div_2""))",Chrome 124.0.0.0,,,04-05-2024 17:00:46,04-05-2024 17:00:46,0.746s,PASSED
+"click(findTestObject(""AirBnBPages/Page_Search/div_Check out""))",Chrome 124.0.0.0,,,04-05-2024 17:00:46,04-05-2024 17:01:18,31.292s,FAILED
+,,,,,,,
+Test Cases/Data-Driven Testing/Find a Place - useVar,Chrome 124.0.0.0,,,04-05-2024 17:01:18,04-05-2024 17:02:17,59.134s,FAILED
+"openBrowser("""")",Chrome 124.0.0.0,,,04-05-2024 17:01:18,04-05-2024 17:01:20,1.867s,PASSED
+"navigateToUrl(""https://www.airbnb.com/"")",Chrome 124.0.0.0,,,04-05-2024 17:01:20,04-05-2024 17:01:27,7.600s,PASSED
+"setText(findTestObject(""AirBnBPages/Page_Search/input_Where_query""), city)",Chrome 124.0.0.0,,,04-05-2024 17:01:27,04-05-2024 17:01:31,4.044s,PASSED
+"click(findTestObject(""AirBnBPages/Page_Search/div_Check in""))",Chrome 124.0.0.0,,,04-05-2024 17:01:31,04-05-2024 17:01:45,13.370s,PASSED
+"click(findTestObject(""AirBnBPages/Page_Search/div_2""))",Chrome 124.0.0.0,,,04-05-2024 17:01:45,04-05-2024 17:01:45,0.778s,PASSED
+"click(findTestObject(""AirBnBPages/Page_Search/div_Check out""))",Chrome 124.0.0.0,,,04-05-2024 17:01:45,04-05-2024 17:02:17,31.445s,FAILED
