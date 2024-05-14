@@ -1,0 +1,7 @@
+testType;username;password;warningMessage;testDesc
+P;standard_user;secret_sauce;;Send valid credential
+N;none;none;Epic sadface: Username is required;Send invalid credential
+N;standard_user;none;Epic sadface: Password is required;Empty Password
+N;none;secret_sauce;Epic sadface: Username is required;Empty Username
+N;xxxx;xxxxx;Epic sadface: Username and password do not match any user in this service;Send invalid credential
+N;locked_out_user;secret_sauce;Epic sadface: Sorry, this user has been locked out.;Send locked credential

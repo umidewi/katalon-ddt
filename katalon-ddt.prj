@@ -6,11 +6,12 @@
    <UUID>0e2ddd3d-396a-475a-bba6-6b24f367cb03</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.4.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.4.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\umi.rahmawati\git\katalon-ddt\katalon-ddt.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

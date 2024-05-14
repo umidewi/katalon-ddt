@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LoginDDT</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>24512ebd-d6e7-4c68-86ac-7447fc34e6eb</testSuiteGuid>
+   <testCaseLink>
+      <guid>c4683b03-1b98-4592-a297-b64300917697</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DDT-Login/Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>757affdd-a069-44e9-80f7-8e1723820d22</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/loginSwag/loginData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>757affdd-a069-44e9-80f7-8e1723820d22</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testType</value>
+         <variableId>003ec9e8-9def-407c-890b-24fa96515892</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>757affdd-a069-44e9-80f7-8e1723820d22</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>979164c3-b3bc-4c12-ac62-535d2c056cfc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>757affdd-a069-44e9-80f7-8e1723820d22</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>ef60d761-d6f4-41aa-ae62-26ab6fd409aa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>757affdd-a069-44e9-80f7-8e1723820d22</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>warningMessage</value>
+         <variableId>586b9742-2c56-49ab-9001-f281394674b7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="LoginDDT" time="130.474" tests="6" failures="0" errors="0">
+   <testsuite name="LoginDDT" tests="6" failures="0" errors="0" time="130.474" skipped="0" timestamp="14-05-2024T09:41:47" hostname="umi.rahmawati - WOWSBY-L-UMI.wowlan.com" id="Test Suites/LoginDDT">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\umi.rahmawati\\git\\katalon-ddt\\Reports\\20240514_094142\\LoginDDT\\20240514_094142"/>
+         <property name="logFiles" value="C:\\Users\\umi.rahmawati\\git\\katalon-ddt\\Reports\\20240514_094142\\LoginDDT\\20240514_094142\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="umi.rahmawati - WOWSBY-L-UMI.wowlan.com"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Firefox 125.0"/>
+         <property name="hostAddress" value="10.80.250.23"/>
+         <property name="sessionId" value="3aabb861-6ace-4893-9183-5a9605da14e3"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/DDT-Login/Login" time="13.045" classname="Test Cases/DDT-Login/Login" status="PASSED">
+         <system-out><![CDATA[14-05-2024T09:41:47 - [TEST_CASE][PASSED] - Test Cases/DDT-Login/Login: Test Cases/DDT-Login/Login
+
+14-05-2024T09:41:48 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+14-05-2024T09:41:48 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+14-05-2024T09:41:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+14-05-2024T09:41:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+14-05-2024T09:41:53 - [TEST_STEP][PASSED] - navigateToUrl(urlSauceLabs): Navigate to 'https://www.saucedemo.com/' successfully
+
+14-05-2024T09:41:56 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+14-05-2024T09:41:56 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/fieldUserName"), 0): Object 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName' is present
+
+14-05-2024T09:41:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-05-2024T09:41:57 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName' is present
+
+14-05-2024T09:41:57 - [TEST_STEP][PASSED] - if (username != "none"): Keys 'standard_user' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName'
+
+14-05-2024T09:41:57 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/fieldUserName"), username): Keys 'standard_user' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName'
+
+14-05-2024T09:41:57 - [MESSAGE][PASSED] - Keys 'standard_user' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName'
+
+14-05-2024T09:41:57 - [TEST_STEP][PASSED] - if (password != "none"): Keys 'secret_sauce' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldPassword'
+
+14-05-2024T09:41:57 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/fieldPassword"), password): Keys 'secret_sauce' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldPassword'
+
+14-05-2024T09:41:58 - [MESSAGE][PASSED] - Keys 'secret_sauce' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldPassword'
+
+14-05-2024T09:41:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/btnLogin")): Object: 'Object Repository/Page_Swag Labs/LoginScreen/btnLogin' is clicked on
+
+14-05-2024T09:41:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/LoginScreen/btnLogin' is clicked on
+
+14-05-2024T09:41:58 - [TEST_STEP][PASSED] - if (testType == "P"): Object 'Object Repository/Page_Swag Labs/LoginScreen/btnBurgerMenu' is visible
+
+14-05-2024T09:41:58 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/btnBurgerMenu"), 0): Object 'Object Repository/Page_Swag Labs/LoginScreen/btnBurgerMenu' is visible
+
+14-05-2024T09:41:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-05-2024T09:41:59 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Swag Labs/LoginScreen/btnBurgerMenu' is visible
+
+14-05-2024T09:41:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+14-05-2024T09:42:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DDT-Login/Login" time="9.868" classname="Test Cases/DDT-Login/Login" status="PASSED">
+         <system-out><![CDATA[14-05-2024T09:42:01 - [TEST_CASE][PASSED] - Test Cases/DDT-Login/Login: Test Cases/DDT-Login/Login
+
+14-05-2024T09:42:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+14-05-2024T09:42:01 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+14-05-2024T09:42:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+14-05-2024T09:42:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+14-05-2024T09:42:05 - [TEST_STEP][PASSED] - navigateToUrl(urlSauceLabs): Navigate to 'https://www.saucedemo.com/' successfully
+
+14-05-2024T09:42:08 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+14-05-2024T09:42:08 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/fieldUserName"), 0): Object 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName' is present
+
+14-05-2024T09:42:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-05-2024T09:42:08 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName' is present
+
+14-05-2024T09:42:08 - [TEST_STEP][PASSED] - if (username != "none"): null
+
+14-05-2024T09:42:08 - [TEST_STEP][PASSED] - if (password != "none"): null
+
+14-05-2024T09:42:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/btnLogin")): Object: 'Object Repository/Page_Swag Labs/LoginScreen/btnLogin' is clicked on
+
+14-05-2024T09:42:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/LoginScreen/btnLogin' is clicked on
+
+14-05-2024T09:42:09 - [TEST_STEP][PASSED] - if (testType == "P"): null
+
+14-05-2024T09:42:09 - [TEST_STEP][PASSED] - else: Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:42:09 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Page_Swag Labs/LoginScreen/warningMessage"), warningMessages): Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:42:09 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:42:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+14-05-2024T09:42:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DDT-Login/Login" time="10.838" classname="Test Cases/DDT-Login/Login" status="PASSED">
+         <system-out><![CDATA[14-05-2024T09:42:11 - [TEST_CASE][PASSED] - Test Cases/DDT-Login/Login: Test Cases/DDT-Login/Login
+
+14-05-2024T09:42:11 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+14-05-2024T09:42:11 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+14-05-2024T09:42:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+14-05-2024T09:42:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+14-05-2024T09:42:15 - [TEST_STEP][PASSED] - navigateToUrl(urlSauceLabs): Navigate to 'https://www.saucedemo.com/' successfully
+
+14-05-2024T09:42:18 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+14-05-2024T09:42:18 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/fieldUserName"), 0): Object 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName' is present
+
+14-05-2024T09:42:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-05-2024T09:42:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName' is present
+
+14-05-2024T09:42:19 - [TEST_STEP][PASSED] - if (username != "none"): Keys 'standard_user' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName'
+
+14-05-2024T09:42:19 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/fieldUserName"), username): Keys 'standard_user' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName'
+
+14-05-2024T09:42:19 - [MESSAGE][PASSED] - Keys 'standard_user' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName'
+
+14-05-2024T09:42:19 - [TEST_STEP][PASSED] - if (password != "none"): null
+
+14-05-2024T09:42:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/btnLogin")): Object: 'Object Repository/Page_Swag Labs/LoginScreen/btnLogin' is clicked on
+
+14-05-2024T09:42:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/LoginScreen/btnLogin' is clicked on
+
+14-05-2024T09:42:20 - [TEST_STEP][PASSED] - if (testType == "P"): null
+
+14-05-2024T09:42:20 - [TEST_STEP][PASSED] - else: Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:42:20 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Page_Swag Labs/LoginScreen/warningMessage"), warningMessages): Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:42:20 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:42:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+14-05-2024T09:42:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DDT-Login/Login" time="11.908" classname="Test Cases/DDT-Login/Login" status="PASSED">
+         <system-out><![CDATA[14-05-2024T09:42:21 - [TEST_CASE][PASSED] - Test Cases/DDT-Login/Login: Test Cases/DDT-Login/Login
+
+14-05-2024T09:42:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+14-05-2024T09:42:22 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+14-05-2024T09:42:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+14-05-2024T09:42:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+14-05-2024T09:42:26 - [TEST_STEP][PASSED] - navigateToUrl(urlSauceLabs): Navigate to 'https://www.saucedemo.com/' successfully
+
+14-05-2024T09:42:30 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+14-05-2024T09:42:30 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/fieldUserName"), 0): Object 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName' is present
+
+14-05-2024T09:42:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-05-2024T09:42:31 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName' is present
+
+14-05-2024T09:42:31 - [TEST_STEP][PASSED] - if (username != "none"): null
+
+14-05-2024T09:42:31 - [TEST_STEP][PASSED] - if (password != "none"): Keys 'secret_sauce' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldPassword'
+
+14-05-2024T09:42:31 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/fieldPassword"), password): Keys 'secret_sauce' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldPassword'
+
+14-05-2024T09:42:31 - [MESSAGE][PASSED] - Keys 'secret_sauce' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldPassword'
+
+14-05-2024T09:42:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/btnLogin")): Object: 'Object Repository/Page_Swag Labs/LoginScreen/btnLogin' is clicked on
+
+14-05-2024T09:42:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/LoginScreen/btnLogin' is clicked on
+
+14-05-2024T09:42:32 - [TEST_STEP][PASSED] - if (testType == "P"): null
+
+14-05-2024T09:42:32 - [TEST_STEP][PASSED] - else: Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:42:32 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Page_Swag Labs/LoginScreen/warningMessage"), warningMessages): Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:42:32 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:42:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+14-05-2024T09:42:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DDT-Login/Login" time="40.958" classname="Test Cases/DDT-Login/Login" status="PASSED">
+         <system-out><![CDATA[14-05-2024T09:42:33 - [TEST_CASE][PASSED] - Test Cases/DDT-Login/Login: Test Cases/DDT-Login/Login
+
+14-05-2024T09:42:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+14-05-2024T09:42:33 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+14-05-2024T09:42:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+14-05-2024T09:42:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+14-05-2024T09:42:38 - [TEST_STEP][PASSED] - navigateToUrl(urlSauceLabs): Navigate to 'https://www.saucedemo.com/' successfully
+
+14-05-2024T09:42:41 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+14-05-2024T09:42:41 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/fieldUserName"), 0): Object 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName' is present
+
+14-05-2024T09:42:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-05-2024T09:42:41 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName' is present
+
+14-05-2024T09:42:41 - [TEST_STEP][PASSED] - if (username != "none"): Keys 'xxxx' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName'
+
+14-05-2024T09:42:41 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/fieldUserName"), username): Keys 'xxxx' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName'
+
+14-05-2024T09:42:42 - [MESSAGE][PASSED] - Keys 'xxxx' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName'
+
+14-05-2024T09:42:42 - [TEST_STEP][PASSED] - if (password != "none"): Keys 'xxxxx' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldPassword'
+
+14-05-2024T09:42:42 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/fieldPassword"), password): Keys 'xxxxx' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldPassword'
+
+14-05-2024T09:42:42 - [MESSAGE][PASSED] - Keys 'xxxxx' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldPassword'
+
+14-05-2024T09:42:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/btnLogin")): Object: 'Object Repository/Page_Swag Labs/LoginScreen/btnLogin' is clicked on
+
+14-05-2024T09:42:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/LoginScreen/btnLogin' is clicked on
+
+14-05-2024T09:42:43 - [TEST_STEP][PASSED] - if (testType == "P"): null
+
+14-05-2024T09:42:43 - [TEST_STEP][PASSED] - else: Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:42:43 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Page_Swag Labs/LoginScreen/warningMessage"), warningMessages): Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:43:13 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:43:13 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+14-05-2024T09:43:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DDT-Login/Login" time="43.103" classname="Test Cases/DDT-Login/Login" status="PASSED">
+         <system-out><![CDATA[14-05-2024T09:43:14 - [TEST_CASE][PASSED] - Test Cases/DDT-Login/Login: Test Cases/DDT-Login/Login
+
+14-05-2024T09:43:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+14-05-2024T09:43:14 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+14-05-2024T09:43:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+14-05-2024T09:43:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+14-05-2024T09:43:19 - [TEST_STEP][PASSED] - navigateToUrl(urlSauceLabs): Navigate to 'https://www.saucedemo.com/' successfully
+
+14-05-2024T09:43:25 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+14-05-2024T09:43:25 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/fieldUserName"), 0): Object 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName' is present
+
+14-05-2024T09:43:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+14-05-2024T09:43:25 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName' is present
+
+14-05-2024T09:43:25 - [TEST_STEP][PASSED] - if (username != "none"): Keys 'locked_out_user' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName'
+
+14-05-2024T09:43:25 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/fieldUserName"), username): Keys 'locked_out_user' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName'
+
+14-05-2024T09:43:25 - [MESSAGE][PASSED] - Keys 'locked_out_user' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldUserName'
+
+14-05-2024T09:43:25 - [TEST_STEP][PASSED] - if (password != "none"): Keys 'secret_sauce' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldPassword'
+
+14-05-2024T09:43:25 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/fieldPassword"), password): Keys 'secret_sauce' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldPassword'
+
+14-05-2024T09:43:26 - [MESSAGE][PASSED] - Keys 'secret_sauce' sent to object: 'Object Repository/Page_Swag Labs/LoginScreen/fieldPassword'
+
+14-05-2024T09:43:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/LoginScreen/btnLogin")): Object: 'Object Repository/Page_Swag Labs/LoginScreen/btnLogin' is clicked on
+
+14-05-2024T09:43:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/LoginScreen/btnLogin' is clicked on
+
+14-05-2024T09:43:26 - [TEST_STEP][PASSED] - if (testType == "P"): null
+
+14-05-2024T09:43:26 - [TEST_STEP][PASSED] - else: Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:43:26 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Page_Swag Labs/LoginScreen/warningMessage"), warningMessages): Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:43:57 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Swag Labs/LoginScreen/warningMessage' are matched.
+
+14-05-2024T09:43:57 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+14-05-2024T09:43:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[14-05-2024T09:41:47 - [TEST_SUITE][PASSED] - LoginDDT: Test Cases/DDT-Login/Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

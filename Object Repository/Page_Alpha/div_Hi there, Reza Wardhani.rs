@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hi there, Reza Wardhani</name>
+   <tag></tag>
+   <elementGuidId>a1d39ac7-a39f-4b04-9bb4-d299eba88624</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/nav/ul/li[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bcc7e2b8-1339-45c0-82e6-497e1330aa37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link dropdown-toggle u-cursor--pointer</value>
+      <webElementGuid>4df4cf39-0664-4b95-99fe-a0a02b2d435f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Hi there, Reza Wardhani</value>
+      <webElementGuid>80d625db-a7bf-4afa-a763-0246a6b3ab65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/nav[@class=&quot;navbar navbar-expand navbar-light topbar static-top shadow u-bg--white&quot;]/ul[@class=&quot;navbar-nav ml-auto&quot;]/li[@class=&quot;nav-item dropdown&quot;]/div[@class=&quot;nav-link dropdown-toggle u-cursor--pointer&quot;]</value>
+      <webElementGuid>64e1e8f4-1f4b-4131-a0b6-e38ff4de8aeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/nav/ul/li[4]/div</value>
+      <webElementGuid>3cae1243-f726-45e0-a298-154b8d96fdd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Company'])[1]/following::div[2]</value>
+      <webElementGuid>c0c35993-b320-4ec0-97ec-082f97b702a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT 5758'])[1]/following::div[4]</value>
+      <webElementGuid>c8d74d87-2253-4e5f-9ae5-baceed924af8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div</value>
+      <webElementGuid>644ffd5f-c7b7-44e6-9654-1e63f08fa5af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Hi there, Reza Wardhani' or . = ' Hi there, Reza Wardhani')]</value>
+      <webElementGuid>2eca8c4e-9b1e-483e-99fc-2cc2956dda99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+LoginDDT,Firefox 125.0,,,14-05-2024 09:41:47,14-05-2024 09:43:58,2m - 10.474s,PASSED
+,,,,,,,
+Test Cases/DDT-Login/Login,Firefox 125.0,,,14-05-2024 09:41:47,14-05-2024 09:42:01,13.045s,PASSED
+"openBrowser("""")",Firefox 125.0,,,14-05-2024 09:41:48,14-05-2024 09:41:53,4.981s,PASSED
+navigateToUrl(urlSauceLabs),Firefox 125.0,,,14-05-2024 09:41:53,14-05-2024 09:41:56,3.514s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Page_Swag Labs/LoginScreen/fieldUserName""), 0)",Firefox 125.0,,,14-05-2024 09:41:56,14-05-2024 09:41:57,0.388s,PASSED
+"if (username != ""none"")",Firefox 125.0,,,14-05-2024 09:41:57,14-05-2024 09:41:57,0.387s,PASSED
+"if (password != ""none"")",Firefox 125.0,,,14-05-2024 09:41:57,14-05-2024 09:41:58,0.436s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/LoginScreen/btnLogin""))",Firefox 125.0,,,14-05-2024 09:41:58,14-05-2024 09:41:58,0.816s,PASSED
+"if (testType == ""P"")",Firefox 125.0,,,14-05-2024 09:41:58,14-05-2024 09:41:59,0.826s,PASSED
+closeBrowser(),Firefox 125.0,,,14-05-2024 09:41:59,14-05-2024 09:42:01,1.265s,PASSED
+,,,,,,,
+Test Cases/DDT-Login/Login,Firefox 125.0,,,14-05-2024 09:42:01,14-05-2024 09:42:11,9.868s,PASSED
+"openBrowser("""")",Firefox 125.0,,,14-05-2024 09:42:01,14-05-2024 09:42:05,3.851s,PASSED
+navigateToUrl(urlSauceLabs),Firefox 125.0,,,14-05-2024 09:42:05,14-05-2024 09:42:08,3.149s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Page_Swag Labs/LoginScreen/fieldUserName""), 0)",Firefox 125.0,,,14-05-2024 09:42:08,14-05-2024 09:42:08,0.665s,PASSED
+"if (username != ""none"")",Firefox 125.0,,,14-05-2024 09:42:08,14-05-2024 09:42:08,0.001s,PASSED
+"if (password != ""none"")",Firefox 125.0,,,14-05-2024 09:42:08,14-05-2024 09:42:08,0.001s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/LoginScreen/btnLogin""))",Firefox 125.0,,,14-05-2024 09:42:08,14-05-2024 09:42:09,0.543s,PASSED
+"if (testType == ""P"")",Firefox 125.0,,,14-05-2024 09:42:09,14-05-2024 09:42:09,0.002s,PASSED
+else,Firefox 125.0,,,14-05-2024 09:42:09,14-05-2024 09:42:09,0.350s,PASSED
+closeBrowser(),Firefox 125.0,,,14-05-2024 09:42:09,14-05-2024 09:42:11,1.272s,PASSED
+,,,,,,,
+Test Cases/DDT-Login/Login,Firefox 125.0,,,14-05-2024 09:42:11,14-05-2024 09:42:21,10.838s,PASSED
+"openBrowser("""")",Firefox 125.0,,,14-05-2024 09:42:11,14-05-2024 09:42:15,4.257s,PASSED
+navigateToUrl(urlSauceLabs),Firefox 125.0,,,14-05-2024 09:42:15,14-05-2024 09:42:18,3.227s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Page_Swag Labs/LoginScreen/fieldUserName""), 0)",Firefox 125.0,,,14-05-2024 09:42:18,14-05-2024 09:42:19,0.662s,PASSED
+"if (username != ""none"")",Firefox 125.0,,,14-05-2024 09:42:19,14-05-2024 09:42:19,0.393s,PASSED
+"if (password != ""none"")",Firefox 125.0,,,14-05-2024 09:42:19,14-05-2024 09:42:19,0.000s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/LoginScreen/btnLogin""))",Firefox 125.0,,,14-05-2024 09:42:19,14-05-2024 09:42:20,0.668s,PASSED
+"if (testType == ""P"")",Firefox 125.0,,,14-05-2024 09:42:20,14-05-2024 09:42:20,0.000s,PASSED
+else,Firefox 125.0,,,14-05-2024 09:42:20,14-05-2024 09:42:20,0.290s,PASSED
+closeBrowser(),Firefox 125.0,,,14-05-2024 09:42:20,14-05-2024 09:42:21,1.306s,PASSED
+,,,,,,,
+Test Cases/DDT-Login/Login,Firefox 125.0,,,14-05-2024 09:42:21,14-05-2024 09:42:33,11.908s,PASSED
+"openBrowser("""")",Firefox 125.0,,,14-05-2024 09:42:21,14-05-2024 09:42:26,4.966s,PASSED
+navigateToUrl(urlSauceLabs),Firefox 125.0,,,14-05-2024 09:42:26,14-05-2024 09:42:30,3.694s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Page_Swag Labs/LoginScreen/fieldUserName""), 0)",Firefox 125.0,,,14-05-2024 09:42:30,14-05-2024 09:42:31,0.560s,PASSED
+"if (username != ""none"")",Firefox 125.0,,,14-05-2024 09:42:31,14-05-2024 09:42:31,0.000s,PASSED
+"if (password != ""none"")",Firefox 125.0,,,14-05-2024 09:42:31,14-05-2024 09:42:31,0.328s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/LoginScreen/btnLogin""))",Firefox 125.0,,,14-05-2024 09:42:31,14-05-2024 09:42:32,0.812s,PASSED
+"if (testType == ""P"")",Firefox 125.0,,,14-05-2024 09:42:32,14-05-2024 09:42:32,0.001s,PASSED
+else,Firefox 125.0,,,14-05-2024 09:42:32,14-05-2024 09:42:32,0.309s,PASSED
+closeBrowser(),Firefox 125.0,,,14-05-2024 09:42:32,14-05-2024 09:42:33,1.214s,PASSED
+,,,,,,,
+Test Cases/DDT-Login/Login,Firefox 125.0,,,14-05-2024 09:42:33,14-05-2024 09:43:14,40.958s,PASSED
+"openBrowser("""")",Firefox 125.0,,,14-05-2024 09:42:33,14-05-2024 09:42:38,4.039s,PASSED
+navigateToUrl(urlSauceLabs),Firefox 125.0,,,14-05-2024 09:42:38,14-05-2024 09:42:41,3.359s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Page_Swag Labs/LoginScreen/fieldUserName""), 0)",Firefox 125.0,,,14-05-2024 09:42:41,14-05-2024 09:42:41,0.602s,PASSED
+"if (username != ""none"")",Firefox 125.0,,,14-05-2024 09:42:41,14-05-2024 09:42:42,0.380s,PASSED
+"if (password != ""none"")",Firefox 125.0,,,14-05-2024 09:42:42,14-05-2024 09:42:42,0.431s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/LoginScreen/btnLogin""))",Firefox 125.0,,,14-05-2024 09:42:42,14-05-2024 09:42:43,0.761s,PASSED
+"if (testType == ""P"")",Firefox 125.0,,,14-05-2024 09:42:43,14-05-2024 09:42:43,0.002s,PASSED
+else,Firefox 125.0,,,14-05-2024 09:42:43,14-05-2024 09:43:13,30.179s,PASSED
+closeBrowser(),Firefox 125.0,,,14-05-2024 09:43:13,14-05-2024 09:43:14,1.183s,PASSED
+,,,,,,,
+Test Cases/DDT-Login/Login,Firefox 125.0,,,14-05-2024 09:43:14,14-05-2024 09:43:58,43.103s,PASSED
+"openBrowser("""")",Firefox 125.0,,,14-05-2024 09:43:14,14-05-2024 09:43:19,4.466s,PASSED
+navigateToUrl(urlSauceLabs),Firefox 125.0,,,14-05-2024 09:43:19,14-05-2024 09:43:25,5.637s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Page_Swag Labs/LoginScreen/fieldUserName""), 0)",Firefox 125.0,,,14-05-2024 09:43:25,14-05-2024 09:43:25,0.295s,PASSED
+"if (username != ""none"")",Firefox 125.0,,,14-05-2024 09:43:25,14-05-2024 09:43:25,0.345s,PASSED
+"if (password != ""none"")",Firefox 125.0,,,14-05-2024 09:43:25,14-05-2024 09:43:26,0.497s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/LoginScreen/btnLogin""))",Firefox 125.0,,,14-05-2024 09:43:26,14-05-2024 09:43:26,0.655s,PASSED
+"if (testType == ""P"")",Firefox 125.0,,,14-05-2024 09:43:26,14-05-2024 09:43:26,0.000s,PASSED
+else,Firefox 125.0,,,14-05-2024 09:43:26,14-05-2024 09:43:57,30.128s,PASSED
+closeBrowser(),Firefox 125.0,,,14-05-2024 09:43:57,14-05-2024 09:43:58,1.057s,PASSED

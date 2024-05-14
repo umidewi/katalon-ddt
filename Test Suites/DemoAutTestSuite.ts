@@ -18,58 +18,58 @@
       <testCaseId>Test Cases/Data-Driven Testing/DemoAut - useVar</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>96d8f1c6-a95c-4277-8497-2fcec976a778</id>
+         <id>db91b9cf-84ea-4e19-9fe7-812a5a39c34f</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/DemoAutData</testDataId>
+         <testDataId>Data Files/DemoAutExcData</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>96d8f1c6-a95c-4277-8497-2fcec976a778</testDataLinkId>
+         <testDataLinkId>db91b9cf-84ea-4e19-9fe7-812a5a39c34f</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>healthcare</value>
          <variableId>e03cbe07-cc9d-44d9-9f44-30e0cbd5b4de</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>96d8f1c6-a95c-4277-8497-2fcec976a778</testDataLinkId>
+         <testDataLinkId>db91b9cf-84ea-4e19-9fe7-812a5a39c34f</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>date</value>
          <variableId>14e9ecec-08e5-4457-8616-51560bde29c0</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>96d8f1c6-a95c-4277-8497-2fcec976a778</testDataLinkId>
+         <testDataLinkId>db91b9cf-84ea-4e19-9fe7-812a5a39c34f</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>comment</value>
          <variableId>747fa866-6a96-467e-80c9-f3a287ba3da2</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>96d8f1c6-a95c-4277-8497-2fcec976a778</testDataLinkId>
+         <testDataLinkId>db91b9cf-84ea-4e19-9fe7-812a5a39c34f</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>ver_healthcare</value>
          <variableId>306a5c5f-0666-4ed4-b415-f131c3f6efb6</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>96d8f1c6-a95c-4277-8497-2fcec976a778</testDataLinkId>
+         <testDataLinkId>db91b9cf-84ea-4e19-9fe7-812a5a39c34f</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>ver_date</value>
          <variableId>65ce72b1-398d-4bdb-b480-fcce44fb3103</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>96d8f1c6-a95c-4277-8497-2fcec976a778</testDataLinkId>
+         <testDataLinkId>db91b9cf-84ea-4e19-9fe7-812a5a39c34f</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>ver_comment</value>
          <variableId>a9655007-a860-432b-94fd-9343c7a11623</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>96d8f1c6-a95c-4277-8497-2fcec976a778</testDataLinkId>
+         <testDataLinkId>db91b9cf-84ea-4e19-9fe7-812a5a39c34f</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>ver_program</value>
          <variableId>226f168d-68a1-47c5-9063-5b0ab65cd52f</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>96d8f1c6-a95c-4277-8497-2fcec976a778</testDataLinkId>
+         <testDataLinkId>db91b9cf-84ea-4e19-9fe7-812a5a39c34f</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>program</value>
          <variableId>25f2505a-d216-435f-b32a-df0de72393df</variableId>
